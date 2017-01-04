@@ -1,4 +1,4 @@
-- hosts: web-servers
+- hosts: test-servers
   remote_user: root
   vars:
     project_root: /var/www/html
